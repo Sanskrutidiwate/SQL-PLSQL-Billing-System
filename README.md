@@ -11,3 +11,10 @@ Calculate totals with tax (18%) and conditional discounts (5% for orders above �
 Prevent overselling with database triggers
 
 Generate invoice summaries
+sql
+  ├── create_tables.sql
+  ├── insert_sample_data.sql
+  ├── procedures.sql
+  ├── functions.sql
+  ├── triggers.sql
+  └── test_queries.sql
