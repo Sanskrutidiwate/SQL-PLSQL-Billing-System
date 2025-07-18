@@ -1,2 +1,1 @@
-# SQL-PLSQL-Billing-System
-To build a database-backed billing system that:  Stores customers, products/services, and invoices.  Calculates invoice totals using PL/SQL logic.  Automatically applies tax, discounts, and validates stock.  Generates simple billing reports and invoice history.
+A simple and functional backend system for managing invoices, customers, products, and billing using Oracle SQL and PL/SQL. This project is designed to demonstrate key concepts in database design, procedural programming, triggers, and business logic for real-world billing workflows.
